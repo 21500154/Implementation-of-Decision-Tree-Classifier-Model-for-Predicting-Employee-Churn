@@ -48,29 +48,29 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-##Initial Dataset:
+Initial Dataset:
 ![ml5](https://user-images.githubusercontent.com/93427345/174268804-73804cb8-c5fa-46cd-ac82-11ba9868b984.PNG)
 
-##Dataset information:
+Dataset information:
 
 ![ml51](https://user-images.githubusercontent.com/93427345/174268854-9fa6865d-93ba-4ded-b042-3e8ce5b903f4.PNG)
 
-##Left column value count:
+Left column value count:
 ![ml52](https://user-images.githubusercontent.com/93427345/174268895-d3df1678-2955-47bf-a895-0e6ff4e34ceb.PNG)
 
-##Encoded Dataset:
+Encoded Dataset:
 ![ml53](https://user-images.githubusercontent.com/93427345/174268919-d2f48fc5-6988-4e56-b0cb-7bdfcf1745a9.PNG)
 
-##x set:
+X set:
 ![ml54](https://user-images.githubusercontent.com/93427345/174268983-0c7e6bd0-5bd2-440d-84a5-8def5126921d.PNG)
 
-##y values:
+Y values:
 ![ml55](https://user-images.githubusercontent.com/93427345/174269004-ef08308d-c2e2-4d4c-b5b2-824801528021.PNG)
 
-##Accuracy score:
+Accuracy score:
 ![ml](https://user-images.githubusercontent.com/93427345/174269041-0150acb4-b614-4ded-b46b-358361e144bb.PNG)
 
-##Result value of Model when tested:
+Result value of Model when tested:
 ![ml56](https://user-images.githubusercontent.com/93427345/174269689-45ac8114-0150-4b8c-b3ee-7e57e2623969.PNG)
 
 ## Result:
